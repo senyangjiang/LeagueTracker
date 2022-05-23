@@ -1,0 +1,9 @@
+export const domainNa1 = "https://na1.api.riotgames.com";
+export const domainAmericas = "https://americas.api.riotgames.com"
+export const getNameUrl = "/lol/summoner/v4/summoners/by-name/";
+export const getMatchUrlPrefix = "/lol/match/v5/matches/by-puuid/";
+export const getMatchUrlPostfix = "/ids";
+export const getStatsUrl = "/lol/match/v5/matches/";
+export const getRankUrl = "/lol/league/v4/entries/by-summoner/";
+export const queryPrefix = "?api_key=";
+export const API_key = "RGAPI-222671ed-e916-4694-b647-f4ae27f5acec";
